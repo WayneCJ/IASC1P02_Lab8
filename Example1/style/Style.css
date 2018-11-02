@@ -1,0 +1,25 @@
+body{
+	background-color:blue;
+}
+
+.box{
+	margin: 10% 10% 30% 10%;
+	border: black 8px solid; 
+	color:red;
+	font-size:25px;
+	font-family: Arial, Verdana, Sans-serif;
+}
+
+.box1{
+	margin: 20px 20px 10px 20px;
+	border: green 2px dashed; 
+	padding: 5px 5px 5px 5px;
+	
+}
+
+.box2{
+	
+	margin: 20px 73% 0px 2px;
+	border: white 3px dashed; 
+	padding: 30px 30px 30px 30px;
+}
